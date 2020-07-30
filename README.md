@@ -1,4 +1,4 @@
-Competências Stream
+Competências XStream
 Competências em Ciência, Tecnologia, Engenharia, Artes e Matemática em Tempo Real
 
 Roadmap
